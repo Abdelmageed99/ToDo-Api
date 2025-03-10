@@ -1,33 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\",
+  "WorkspaceRootPath": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\ToDoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ABDELMAGEED/TestAPI/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|e:\\full stack dot net\\back end  asp .net\\projects\\web api projects\\testapi\\testapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756853B1-4871-4D04-8CB1-92709C09DCA2}|TestAPI\\ToDOAPI.csproj|solutionrelative:testapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\ToDoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,9 +38,9 @@
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Program.cs",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Program.cs",
-              "RelativeToolTip": "TestAPI\\Program.cs",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAUwDQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T08:57:37.956Z",
@@ -65,9 +59,9 @@
               "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\appsettings.json",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\appsettings.json",
-              "RelativeToolTip": "TestAPI\\appsettings.json",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-08T14:28:30.063Z"
@@ -77,9 +71,9 @@
               "DocumentIndex": 4,
               "Title": "ExceptionHandlerMiddleware.cs",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
-              "RelativeToolTip": "TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Middleware\\ExceptionHandlerMiddleware.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T14:26:02.187Z"
@@ -89,9 +83,9 @@
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TestAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Properties\\launchSettings.json",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TestAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-08T13:29:51.634Z"
@@ -101,22 +95,20 @@
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Controllers\\AuthController.cs",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "TestAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Controllers\\AuthController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:09:09.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T13:09:09.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ToDoController.cs",
               "DocumentMoniker": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\ToDoController.cs",
-              "RelativeDocumentMoniker": "TestAPI\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Controllers\\ToDoController.cs",
               "ToolTip": "E:\\Full Stack Dot Net\\Back End  Asp .Net\\Projects\\Web API Projects\\TestAPI\\TestAPI\\Controllers\\ToDoController.cs",
-              "RelativeToolTip": "TestAPI\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Controllers\\ToDoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T12:57:56.481Z"
